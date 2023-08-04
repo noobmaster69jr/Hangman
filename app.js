@@ -4,7 +4,6 @@ import Game from "./components/game";
 import './styles/main.scss'
 const App = () => (
   <>
-    <div>Welcome !</div>
     <Game />
   </>
 );
